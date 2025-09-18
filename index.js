@@ -1,7 +1,7 @@
 
 
 let player = {
-    name: "Usman",
+    name: "",
     chips: 10
 }
 let sum = 0
@@ -72,6 +72,7 @@ function newCard() {
         renderGame()
     }
 }
+
 
 
 
